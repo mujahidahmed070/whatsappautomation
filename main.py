@@ -1,3 +1,4 @@
+# Author Mujahid Ahmed
 import pyautogui as pg
 import webbrowser as web
 import time
